@@ -1,6 +1,6 @@
-Nucleus Segmentation using Deep Learning
+**Nucleus Segmentation using Deep Learning**
 
-Overview
+**Overview**
 
 This project is based on the 2018 Data Science Bowl, which challenges participants to develop an algorithm for automated nucleus detection. Identifying cell nuclei is essential in medical research, as it accelerates research for diseases such as cancer, heart disease, Alzheimer’s, and diabetes. By automating nucleus detection, we can expedite drug development and improve our understanding of cellular responses to treatments.
 
@@ -12,7 +12,7 @@ Detecting nuclei helps researchers analyze how cells react to treatments.
 
 Faster nucleus detection can reduce the time required to bring new drugs to market.
 
-Dataset
+**Dataset**
 
 Source: 2018 Data Science Bowl
 
