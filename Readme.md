@@ -100,7 +100,18 @@ Epoch accuracy and Epoch loss
 
 ![alt text](Epoch_loss.png)
 
+
+
+
+
+
+
 Architecture
+
+
+
+
+
 ![alt text](model.png)
 
 
